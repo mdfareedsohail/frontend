@@ -1,0 +1,162 @@
+[
+  {
+    "id": "p1",
+    "title": "Gond Painted Terracotta Vase",
+    "tribe": "Gond",
+    "priceUSD": 34,
+    "image": "https://images.unsplash.com/photo-1542736667-069246bdbc75?auto=format&fit=crop&w=800&q=60",
+    "description": "Hand-painted terracotta vase made by Gond artisans."
+  },
+  {
+    "id": "p2",
+    "title": "Warli Cloth Wall Art",
+    "tribe": "Warli",
+    "priceUSD": 45,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=800&q=60",
+    "description": "Traditional Warli painting printed on natural cloth."
+  },
+  {
+    "id": "p3",
+    "title": "Dhokra Brass Pendant",
+    "tribe": "Dhokra",
+    "priceUSD": 29,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=60",
+    "description": "Lost-wax brass pendant handcrafted using Dhokra techniques."
+  },
+  {
+    "id": "p4",
+    "title": "Kantha Quilted Throw",
+    "tribe": "Kantha",
+    "priceUSD": 68,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=60",
+    "description": "Soft cotton throw with traditional Kantha running stitch."
+  },
+  {
+    "id": "p5",
+    "title": "Bhil Painted Bowl",
+    "tribe": "Bhil",
+    "priceUSD": 25,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=800&q=60",
+    "description": "Decorative painted bowl featuring Bhil motifs."
+  },
+  {
+    "id": "p6",
+    "title": "Santhal Handwoven Basket",
+    "tribe": "Santhal",
+    "priceUSD": 22,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=60",
+    "description": "Durable handwoven basket made from natural reed fibers."
+  },
+  {
+    "id": "p7",
+    "title": "Baiga Beaded Necklace",
+    "tribe": "Baiga",
+    "priceUSD": 18,
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&w=800&q=60",
+    "description": "Colorful beaded necklace using traditional Baiga patterns."
+  },
+  {
+    "id": "p8",
+    "title": "Munda Wood Carving (Small)",
+    "tribe": "Munda",
+    "priceUSD": 39,
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=60",
+    "description": "Hand-carved wooden figurine by Munda artisans."
+  },
+  {
+    "id": "p9",
+    "title": "Kalamkari Printed Scarf",
+    "tribe": "Kalamkari",
+    "priceUSD": 27,
+    "image": "https://images.unsplash.com/photo-1536276314711-0b3f0d7f6f7d?auto=format&fit=crop&w=800&q=60",
+    "description": "Lightweight scarf with authentic Kalamkari block print."
+  },
+  {
+    "id": "p10",
+    "title": "Tribal Hand-blocked Cushion Cover",
+    "tribe": "Mixed",
+    "priceUSD": 19,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=800&q=60",
+    "description": "Cushion cover with hand-blocked tribal patterns."
+  },
+  {
+    "id": "p11",
+    "title": "Dhokra Animal Sculpture (Mini)",
+    "tribe": "Dhokra",
+    "priceUSD": 52,
+    "image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?auto=format&fit=crop&w=800&q=60",
+    "description": "Miniature brass animal sculpture cast using traditional methods."
+  },
+  {
+    "id": "p12",
+    "title": "Hand-stitched Leather Sandals",
+    "tribe": "Local Crafts",
+    "priceUSD": 35,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=60",
+    "description": "Comfortable, durable leather sandals made by artisans."
+  },
+  {
+    "id": "p13",
+    "title": "Handloom Cotton Saree",
+    "tribe": "Weavers",
+    "priceUSD": 89,
+    "image": "https://images.unsplash.com/photo-1503342452485-86f7f725b8b9?auto=format&fit=crop&w=800&q=60",
+    "description": "Elegant handloom saree woven with natural dyes."
+  },
+  {
+    "id": "p14",
+    "title": "Tribal Wood Print Journal",
+    "tribe": "Mixed",
+    "priceUSD": 12,
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=800&q=60",
+    "description": "Eco-friendly journal with tribal woodblock printed cover."
+  },
+  {
+    "id": "p15",
+    "title": "Hand-painted Gond Coasters (Set of 4)",
+    "tribe": "Gond",
+    "priceUSD": 16,
+    "image": "https://images.unsplash.com/photo-1542444459-0627c6b3e3d3?auto=format&fit=crop&w=800&q=60",
+    "description": "Set of 4 coasters featuring Gond painting motifs."
+  },
+  {
+    "id": "p16",
+    "title": "Warli Decorative Plate",
+    "tribe": "Warli",
+    "priceUSD": 31,
+    "image": "https://images.unsplash.com/photo-1526318472351-c75fcf070ae6?auto=format&fit=crop&w=800&q=60",
+    "description": "Hand-decorated plate inspired by Warli art."
+  },
+  {
+    "id": "p17",
+    "title": "Handloom Table Runner",
+    "tribe": "Weavers",
+    "priceUSD": 24,
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=60",
+    "description": "Natural fiber handloom table runner with tribal borders."
+  },
+  {
+    "id": "p18",
+    "title": "Beaded Tribal Earrings",
+    "tribe": "Baiga",
+    "priceUSD": 15,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=60",
+    "description": "Lightweight beaded earrings in colorful tribal patterns."
+  },
+  {
+    "id": "p19",
+    "title": "Hand-carved Serving Spoon",
+    "tribe": "Munda",
+    "priceUSD": 14,
+    "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=800&q=60",
+    "description": "Polished wooden serving spoon, hand-carved by local artisans."
+  },
+  {
+    "id": "p20",
+    "title": "Tribal Motif Laptop Sleeve",
+    "tribe": "Mixed",
+    "priceUSD": 42,
+    "image": "https://images.unsplash.com/photo-1545236301-39b3c8f7b6a7?auto=format&fit=crop&w=800&q=60",
+    "description": "Padded laptop sleeve with tribal motif print and zipper."
+  }
+]
